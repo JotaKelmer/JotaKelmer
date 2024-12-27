@@ -4,7 +4,12 @@
   and place this file as README.md in the root of that repository.
 -->
 
-<h1 align="center">Hello, I'm JotaKelmer! 👋</h1>
+<h1 align="center">Hello, I'm Jeanderson Kelmer! 👋</h1>
+
+<!-- Rock Lee training GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/REDXEcObFe3Si/giphy.gif" alt="Rock Lee training" width="300"/>
+</div>
 
 <!-- Followers and social badges -->
 <p align="center">
@@ -29,43 +34,63 @@ I’m **starting my career as a developer**, leveraging my background in **Agile
 
 ## 🚀 Professional Summary
 
-- **6+ years** in **Marketing** and **Team Management**, always focusing on **Agile Methodologies**.  
-- **MBA in Agile Management**, plus certifications in **Scrum, Kanban**, and **Business Agility**.  
+- **6+ years** in **Marketing** and **Team Management**, focusing on **Agile Methodologies**.  
+- **MBA in Agile Management**, plus certifications in **Scrum, Kanban, Business Agility**, and more.  
 - Skilled in **leading projects**, **optimizing processes**, and **improving efficiency** in multidisciplinary teams.  
 - Dedicated to **continuous improvement**, **meeting facilitation**, and **value delivery**.
 
 ---
 
-## ⚙️ Technologies & Tools
+## 🏆 Key Competencies
 
-<p>
-  <!-- Agile Methodologies and Tools -->
-  <img src="https://img.shields.io/badge/Scrum-67AA3C?style=for-the-badge&logo=ScrumAlliance&logoColor=white" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/Kanban-3FC1C9?style=for-the-badge&logo=kanbanize&logoColor=white" alt="Kanban"/>
-  <img src="https://img.shields.io/badge/Lean-FF9900?style=for-the-badge&logo=lean&logoColor=white" alt="Lean"/>
-
-  <!-- Management Tools -->
-  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=Asana&logoColor=white" alt="Asana"/>
-  <img src="https://img.shields.io/badge/Runrun.it-4D4D4D?style=for-the-badge&logoColor=white" alt="Runrun.it"/>
-
-  <!-- Marketing & Development Technologies -->
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads"/>
-  <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Ads"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+- **Agile Project Management**: Facilitating Sprints, Dailies, Retrospectives, and Reviews  
+- **Team Leadership**: Emphasis on collaboration, motivation, and team development  
+- **Strategic Communication**: Engaging stakeholders for transparency and clear expectations  
+- **Results Orientation**: Tracking KPIs, applying **Agile Metrics**, and driving continuous improvement  
 
 ---
 
-## 🏆 Key Competencies
+## ⚙️ Technologies & Tools
 
-- **Agile Project Management**: Facilitating Sprints, Dailies, Retrospectives, and Reviews.  
-- **Team Leadership**: Emphasis on collaboration, motivation, and people development.  
-- **Strategic Communication**: Engaging stakeholders for transparency and clear expectations.  
-- **Results Orientation**: Tracking KPIs, applying **Agile Metrics**, and driving continuous improvement.
+Below is a categorized list of technologies and tools I’ve worked with or studied, based on my **Alura** certifications and professional background:
+
+### Agile & Management
+![Scrum](https://img.shields.io/badge/Scrum-67AA3C?style=for-the-badge&logo=ScrumAlliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-3FC1C9?style=for-the-badge&logo=kanbanize&logoColor=white)
+![Lean](https://img.shields.io/badge/Lean-FF9900?style=for-the-badge&logo=lean&logoColor=white)
+![Business Agility](https://img.shields.io/badge/Business%20Agility-0063B1?style=for-the-badge)
+![Management 3.0](https://img.shields.io/badge/Management%203.0-0066CC?style=for-the-badge)
+
+**Tools**:  
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=Asana&logoColor=white)
+![Runrun.it](https://img.shields.io/badge/Runrun.it-4D4D4D?style=for-the-badge&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Web Development & DevOps
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools**:  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Marketing & Paid Media
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Facebook Ads](https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn%20Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter Ads](https://img.shields.io/badge/Twitter%20Ads-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![TikTok Ads](https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
 
 ---
 
@@ -75,14 +100,15 @@ I’m **starting my career as a developer**, leveraging my background in **Agile
 - **Postgraduate in Systems Analysis, Design, and Management** *(Jan/2024 – Nov/2024)*  
 - **Bachelor’s in Journalism** – Federal University of Juiz de Fora *(2012 – 2017)*
 
-**Certifications & Courses (Alura, etc.):**
-- **Scrum, Lean, XP, Kanban, Business Agility** *(2023)*  
-- **Paid Traffic & Digital Marketing** *(2022)*  
-- **Web Development & Front-End** *(HTML, CSS, JS, 2024)*  
-- **Communication & Leadership** *(2021)*  
-- **Python for Data Science** *(In progress)*  
+**Key Alura Certifications & Courses**:
+- **Business Agility**, **Scrum, Kanban, Lean**, **Agile Coach**, **Métricas Ágeis**  
+- **Web Development** (HTML, CSS, JavaScript)  
+- **Paid Traffic & Digital Marketing** (Google Ads, Facebook Ads, Growth Hacking)  
+- **Python for Data Science** (Pandas, NumPy, Regression, etc.)  
+- **Communication & Leadership** (Oratory, Negotiation, Conflict Management)  
+- **DevOps** (Linux CLI, Git, GitHub)  
 
-> [View my Alura certificates](https://cursos.alura.com.br/user/kelmer-182/fullCertificate/e094e5d4bc77779498fbc0025ac55e57)
+> [View my Alura full certificate](https://cursos.alura.com.br/user/kelmer-182/fullCertificate/e094e5d4bc77779498fbc0025ac55e57)
 
 ---
 
