@@ -6,10 +6,6 @@
 
 <h1 align="center">Hello, I'm Jeanderson Kelmer! 👋</h1>
 
-<!-- Rock Lee training GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/REDXEcObFe3Si/giphy.gif" alt="Rock Lee training" width="300"/>
-</div>
 
 <!-- Followers and social badges -->
 <p align="center">
